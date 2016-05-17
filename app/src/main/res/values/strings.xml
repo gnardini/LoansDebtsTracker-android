@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Loans &amp; Debts</string>
+    <string name="toolbar_title">Loans &amp; Debts Tracker</string>
+
+    <!-- Toolbar actions -->
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add debt</string>
+
+    <!-- Fonts -->
+    <string name="font_light">fonts/Roboto-Light.ttf</string>
+    <string name="font_regular">fonts/Roboto-Regular.ttf</string>
+    <string name="font_medium">fonts/Roboto-Medium.ttf</string>
+    <string name="font_bold">fonts/Roboto-Bold.ttf</string>
+
+    <!-- Errors -->
+    <string name="error_empty_name">Name is required</string>
+    <string name="error_empty_amount">Please, set an amount</string>
+
+    <!-- Debts -->
+    <string name="empty_debts_title">No Debts!</string>
+    <string name="empty_debts_subtitle">You don\'t owe anyone money</string>
+    <string name="empty_loans_title">No Loans!</string>
+    <string name="empty_loans_subtitle">Nobody owes you money</string>
+
+    <!-- New debts -->
+    <string name="debt_outgoing">I\'m lending</string>
+    <string name="debt_incoming">I\'m borrowing</string>
+    <string name="new_debt_title">New entry</string>
+    <string name="debt_cancel">Cancel</string>
+    <string name="debt_save">Save</string>
+    <string name="debt_name">Name</string>
+    <string name="debt_amount">Amount</string>
+
+    <!-- Edit debt -->
+    <string name="edit_debt_title">Edit debt</string>
+    <string name="edit_loan_title">Edit loan</string>
+
+    <!-- Notifications -->
+    <string name="notification_one_loan" formatted="false">"You have one loan of $%.02f pending from %s"</string>
+    <string name="notification_multiple_loans" formatted="false">"You have %d pending loans"</string>
+    <string name="notification_one_debt" formatted="false">"You have one debt of $%.02f pending to %s"</string>
+    <string name="notification_multiple_debts" formatted="false">"You have %d pending debts"</string>
+    <string name="notification_loans_and_debts" formatted="false">"You have %d pending loans and %d pending debts"</string>
+
+</resources>

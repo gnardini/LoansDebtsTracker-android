@@ -1,0 +1,11 @@
+<resources>
+
+    <dimen name="debt_popup_width">300dp</dimen>
+    <dimen name="debt_title">20sp</dimen>
+    <dimen name="new_debt_text_size">18sp</dimen>
+
+    <!-- Error sizes -->
+    <dimen name="error_subtitle">18sp</dimen>
+    <dimen name="error_title">30sp</dimen>
+
+</resources>
