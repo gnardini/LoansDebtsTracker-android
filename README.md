@@ -1,4 +1,6 @@
-# Loans & Debts Tracker
+# Loans & Debts Tracker  
+[![Build Status](https://circleci.com/gh/gnardini/LoansDebtsTracker-android.svg?style=shield)](https://circleci.com/gh/gnardini/LoansDebtsTracker-android)  
+  
 Android app that helps keep track of loans and debts.
 
 This is my first app ever uploaded to the Play Store so I tried it to keep it as simple as possible to reach this goal quickly. Going forward, I'll add some new features and use this project as a sandbox to try out new technologies or libraries.  
